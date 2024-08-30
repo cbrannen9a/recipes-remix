@@ -1,12 +1,22 @@
-# Welcome to Remix!
+# Recipes Remix
 
-- 📖 [Remix docs](https://remix.run/docs)
+Guide to setting up basic Remix app which queries api
+
+Steps are in respective branches:
+
+- part-0: Initial setup
+- part-1: Creating search route
+
+## Tools Used
+
+- Framework [Remix](https://remix.run/)
+- API [Edamam](https://www.edamam.com/)
 
 ## Development
 
 Run the dev server:
 
-```shellscript
+```sh
 yarn dev
 ```
 
