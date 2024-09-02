@@ -14,8 +14,8 @@ export function getEdamam() {
     "Missing environment variable: EDAMAM_BASE_URL"
   );
   invariant(
-    process.env.EDAMAM_RECIPE__API_PATH,
-    "Missing environment variable: EDAMAM_RECIPE__API_PATH"
+    process.env.EDAMAM_RECIPE_API_PATH,
+    "Missing environment variable: EDAMAM_RECIPE_API_PATH"
   );
 
   return {
